@@ -1,0 +1,32 @@
+Category,Subcategory,Value,Type
+Gender,Female,55,%
+Gender,Male,43,%
+Gender,Non-binary,2,%
+Age,Under 25,7,%
+Age,25-34,24,%
+Age,35-44,24,%
+Age,45-54,20,%
+Age,55-64,16,%
+Age,65+,9,%
+Race,White,64,%
+Race,Hispanic,20,%
+Race,Black,7,%
+Race,Asian,5,%
+Race,American Indian / Alaska Native,2,%
+Race,Mixed Race,2,%
+Runner Type,Frequent / Fitness,57,%
+Runner Type,Serious / Competitive,21,%
+Runner Type,Jogger / Recreational,20,%
+Training Frequency,1-2 days/week,12,%
+Training Frequency,3 days/week,27,%
+Training Frequency,4 days/week,25,%
+Training Frequency,5 days/week,21,%
+Training Frequency,6 days/week,9,%
+Training Frequency,7 days/week,6,%
+Event Participation,Increase,66,%
+Event Participation,Remain Similar,29,%
+Event Participation,Decrease,5,%
+Marathon Participation,In-person,43,%
+Marathon Participation,Virtual,35,%
+Half Marathon Participation,In-person,60,%
+Half Marathon Participation,Virtual,42,%
