@@ -1,0 +1,34 @@
+# Project Documentation
+
+**Project Name:** Exploring Marathon Trends  
+**Author:** Kimberly Blodgett  
+**Purpose:** Analyze marathon participation and performance trends using publicly available race data.
+
+## Datasets
+
+- `2023_results.csv` – Finish results for 2023 marathons  
+- `2023_race.csv` – Race information for 2023  
+- `2024_results.csv` – Finish results for 2024 marathons  
+- `2024_race.csv` – Race information for 2024  
+- `boston_men.csv` – Boston Marathon winners (Men)  
+- `boston_women.csv` – Boston Marathon winners (Women)  
+
+## Analysis Overview
+
+### Participation Trends
+- Top 20 races by finishers (2023 vs 2024)  
+- Gender distribution (Men vs Women; Non-Binary/Other <0.1%)  
+
+### Performance Trends
+- Overall average finish times by year  
+- Average finish times by gender  
+- Boston Marathon winners over time (Men vs Women; women raced from 1972)  
+- Finish time spread by age and gender (shows variability)  
+- Comparison of top 10% finishers vs amateurs  
+
+### Race Popularity
+- Top 10 races highlighted using color gradients for visualization  
+
+## Tools & Libraries
+- **Python:** pandas, matplotlib, seaborn  
+- **Jupyter Notebook:** `notebooks/analysis.ipynb`
