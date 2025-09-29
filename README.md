@@ -27,3 +27,6 @@ The `data/` folder contains all datasets used in this analysis:
 
 3. **Race Popularity**
     - Top 10 races highlighted with color gradients for visualization
+
+4. **Statistical Testing**
+    - Statistical signifiance test for gender, year, and age group finish times.
